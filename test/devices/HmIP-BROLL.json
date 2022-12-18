@@ -77,5 +77,10 @@
   ],
   "ccu": {
     "7877899276ABCD:4": "HomeMaticBlindIPAccessory"
+  },
+  "mappings": {
+    "7877899276ABCD:4": {
+        "Service": "HomeMaticBlindIPAccessory"
+    }
 }
 }
